@@ -378,10 +378,19 @@ h3 {
 }
 
 .contact {
-  font-family: "Brush Script MT", "Segoe Script", cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  font-family: "Sunless Day", "Brush Script MT", "Segoe Script", cursive;
   font-size: 40px;
-  line-height: 0.9;
+  line-height: 1;
   color: var(--green);
+}
+
+.contact__name,
+.contact__phone {
+  display: block;
 }
 
 .section--form {

@@ -1,0 +1,13 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created. Summary: file created.
+- [x] Clarify Project Requirements. Summary: one-page static site, pixel-perfect from Figma, desktop + mobile, deployment to Cloudflare Pages.
+- [x] Scaffold the Project. Summary: created `index.html`, `assets/styles/main.css`, `assets/scripts/main.js`, assets folders, and base structure.
+- [x] Customize the Project. Summary: added initial semantic layout and starter styles for further Figma-driven implementation.
+- [x] Install Required Extensions. Summary: no required extensions were specified, skipped.
+- [x] Compile the Project. Summary: local preview server starts successfully on `http://localhost:4173`.
+- [x] Create and Run Task. Summary: created and ran VS Code task `Run static preview`.
+- [x] Launch the Project. Summary: skipped debug launch because user requested setup continuation only.
+- [x] Ensure Documentation is Complete. Summary: README exists and reflects local run + Cloudflare Pages deploy steps; this file cleaned from HTML comments.
+
+- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
